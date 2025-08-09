@@ -178,5 +178,8 @@ sudo apt install libffi-dev libnacl-dev python3-dev -y
 pip install PyNaCl
 ```
 
+### Credit
+- Full Bot Development by Vibe Coding
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
